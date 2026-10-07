@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pablo
 
-**Computer Engineering student at UC3M **
+**Computer Engineering student at UC3M**
 
 I'm in my 4th year of Computer Engineering at Universidad Carlos III de Madrid. I'm mainly interested in **artificial intelligence**, **machine learning**, **process automation** and **databases**. I like building things to understand how they work underneath.
 
