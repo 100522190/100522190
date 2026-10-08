@@ -1,19 +1,17 @@
 # 👋 Hi, I'm Pablo
 
-**Computer Engineering student at UC3M**
+🎓 Computer Engineering @ UC3M | 📍 Madrid, Spain
 
-I'm in my 4th year of Computer Engineering at Universidad Carlos III de Madrid. I'm mainly interested in **artificial intelligence**, **machine learning**, **process automation** and **databases**. I like building things to understand how they work underneath.
+I'm currently completing my 4th year of Computer Engineering at Universidad Carlos III de Madrid. I have a deep curiosity for how things work under the hood, with a strong focus on **Artificial Intelligence**, **Machine Learning**, **Process Automation**, and **Databases**.
 
-Some things I've built:
+## 🛠️ Featured Projects
 
-- **Two-stage language translator** — compiler built in pairs with Bison. The frontend translates a subset of C (variables, `if`, `while`, `for`, `switch`, functions and arrays) into Lisp, and the backend translates Lisp into postfix notation. 
-- **Radar-evasion path planning** — AI search project in Python. It models radars and computes detection maps, builds a graph with NetworkX and finds low-detection routes with informed search, comparing Euclidean and Manhattan heuristics. [→ repo](https://github.com/100522190/radar-evasion-path-planning)
-- **Secure local messaging system** — Python program that simulates a local messaging system with encryption to protect communications.
-- **Travel agency website** — design and layout of a travel site with HTML and CSS, with functionality implemented in Java. 
+- ⚙️ **Two-Stage Language Translator** — A compiler built in pairs using **Bison**. Translates a subset of C (handling variables, loops like `while` / `for`, conditionals, and arrays) into Lisp (frontend), then converts that Lisp into postfix notation (backend).
+- 📡 **Radar-Evasion Path Planning** — An AI search project in Python. Models radar detection zones, generates a graph network (NetworkX), and calculates optimal low-visibility paths using informed search with Euclidean & Manhattan heuristics. [🔗 Github Repo](https://github.com/100522190/radar-evasion-path-planning)
+- 🔒 **Secure Local Messenger** — A Python simulation of a local messaging system, featuring encryption to protect and safeguard communications.
+- ✈️ **Travel Agency Platform** — UI/UX design and frontend layout for a travel site using HTML and CSS, with backend logic implemented in Java.
 
----
-
-## 🛠️ Tech Stack
+## 🧰 Tech & Tools
 
 **Languages**
 
